@@ -1,7 +1,7 @@
-remote_theme: pages-themes/tactile@v0.2.0
-plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: false
-description: Опытный веб-разработчик с 5+ лет в коммерческой и фриланс-разработке. Специализируюсь на создании интерактивных, адаптивных веб-приложений и визуализаций данных с использованием Vue.js, D3.js и Node.js
-show_downloads: false
+# remote_theme: pages-themes/tactile@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
+# title: false
+# description: Опытный веб-разработчик с 5+ лет в коммерческой и фриланс-разработке. Специализируюсь на создании интерактивных, адаптивных веб-приложений и визуализаций данных с использованием Vue.js, D3.js и Node.js
+# show_downloads: false
 # google_analytics: [Your Google Analytics tracking ID]
